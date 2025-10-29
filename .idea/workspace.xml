@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c7ec32f-fa14-4a1e-9a27-a9c9b8820959" name="Changes" comment="hm10 + 11 + 12" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HM6" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="25c2cacc-d5e0-4413-b998-cb0179669947" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="33mkzUcZew7UtyisSwxwtVt5Rg0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Counting.executor": "Run",
+    "Application.HM4.executor": "Run",
+    "Application.HM5.executor": "Run",
+    "Application.HM6.executor": "Run",
+    "Application.HM7.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.TaxCalculator.executor": "Run",
+    "Application.org.example.HM12.Furniture.Main.executor": "Run",
+    "Application.org.example.HM12.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Test.testTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/anyag/IdeaProjects/QA-OCT-2025_1",
+    "onboarding.tips.debug.path": "C:/Users/anyag/IdeaProjects/AQA-25/AQA_25/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.HM1">
+    <configuration name="Counting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HM10.Counting" />
+      <module name="AQA_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.HM10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HM1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HM1" />
+      <module name="AQA-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.HM12.Furniture.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HM12.Furniture.Main" />
+      <module name="AQA_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.HM12.Furniture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.HM12.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HM12.Main" />
+      <module name="AQA_25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.HM12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AQA_25" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HM1" />
+        <item itemvalue="Application.org.example.HM12.Furniture.Main" />
+        <item itemvalue="Application.org.example.HM12.Main" />
+        <item itemvalue="TestNG.Test.testTest" />
+        <item itemvalue="Application.Counting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7ec32f-fa14-4a1e-9a27-a9c9b8820959" name="Changes" comment="" />
+      <created>1759929900602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759929900602</updated>
+    </task>
+    <task id="LOCAL-00001" summary="hm1 + 2 + 3">
+      <option name="closed" value="true" />
+      <created>1759930712340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759930712340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hm4">
+      <option name="closed" value="true" />
+      <created>1759933362754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759933362754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hm4 + 5">
+      <option name="closed" value="true" />
+      <created>1760035881534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760035881535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hm6+7">
+      <option name="closed" value="true" />
+      <created>1760704776334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1760704776334</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hm10 + 11 + 12">
+      <option name="closed" value="true" />
+      <created>1761733216034</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761733216034</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="hm1 + 2 + 3" />
+    <MESSAGE value="hm4" />
+    <MESSAGE value="hm4 + 5" />
+    <MESSAGE value="hm6+7" />
+    <MESSAGE value="hm11 + 12" />
+    <MESSAGE value="hm10 + 11 + 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm10 + 11 + 12" />
+  </component>
+</project>
